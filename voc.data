@@ -1,0 +1,6 @@
+classes= 20
+train  = /Users/zhangyiwen/Documents/学校/复旦大学/2021春/计算机视觉/pj/voc_data_set/train.txt
+valid  = /Users/zhangyiwen/Documents/学校/复旦大学/2021春/计算机视觉/pj/voc_data_set/2007_val.txt
+names = data/voc.names
+backup = backup
+
